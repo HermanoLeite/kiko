@@ -5,6 +5,7 @@ export default function Home() {
       <ul>
         <li>Hermano Leite: <i>"Creo que será una buena oportunidad para practicar el desarrollo como un sistema real"</i></li>
         <li>Jose Angel: <i>"Todas las personas deberían aprender a programar, porque les enseña a pensar"</i> </li>
+        <li>Tiziano Vera:<i> "Todas las personas son buenas, menos lo chinos que comen perros"</i></li>
       </ul>
     </div>
   )
